@@ -1,16 +1,32 @@
 ## Hi WELCOME TO THE AHSANMEDIALAB 👋
 
-<!--
-**ahsanmedialab/ahsanmedialab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎬 AhsanMediaLab  
 
-Here are some ideas to get you started:
+Welcome to **AhsanMediaLab** 👋  
+AhsanMediaLab is an AI-powered creative lab for generating **Images, Videos, and Voices**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Features  
+- 🖼️ **Image Generation** – Create stunning AI-generated images.  
+- 🎥 **Video Generation** – Produce videos with the power of AI.  
+- 🎙️ **Voice Generation** – Generate realistic AI voices.  
+
+---
+
+## 🎯 Goals  
+- Simplify AI media generation for everyone.  
+- Provide tools for creators, developers, and businesses.  
+- Explore cutting-edge AI technologies.  
+
+---
+
+## 📬 Contact  
+- 🌐 Website: *(coming soon)*  
+- 📧 Email: ahsanmedialab@example.com  
+- 💬 Feel free to connect for collaboration!  
+
+---
+
+✨ *Created with passion at AhsanMediaLab*  
+
